@@ -1,2 +1,30 @@
-# SOCIAL_POST_OPTIMIZER
-AI-powered Streamlit app that optimizes landing page copy for better clarity, persuasion, and conversion using Cohere's free-tier language model. Perfect for marketers, founders, and content strategists.
+# 🚀 Landing Page Copy Optimizer GPT
+
+This AI-powered tool analyzes and enhances your landing page copy using advanced language models. Just paste your current copy, and the app provides optimized, high-converting suggestions tailored to your audience.
+
+🔗 **Live App**: [Click here to try it](https://your-streamlit-url.streamlit.app)
+
+---
+
+### ✨ Features
+
+- Paste your current landing page copy.
+- Instantly get improved and concise suggestions.
+- Ideal for marketers, copywriters, and founders.
+- Powered by free-tier AI APIs (Cohere).
+
+---
+
+### 📌 Use Cases
+
+- Boost engagement and conversions.
+- Optimize copy for clarity, tone, and CTA strength.
+- Test different variations for better performance.
+
+---
+
+### 🛠️ Built With
+
+- Python
+- Streamlit
+- Cohere AI API (Free tier)

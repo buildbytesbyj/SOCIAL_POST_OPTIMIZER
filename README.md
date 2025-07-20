@@ -2,8 +2,6 @@
 
 This AI-powered tool analyzes and enhances your landing page copy using advanced language models. Just paste your current copy, and the app provides optimized, high-converting suggestions tailored to your audience.
 
-🔗 **Live App**: [Click here to try it](https://your-streamlit-url.streamlit.app)
-
 ---
 
 ### ✨ Features
